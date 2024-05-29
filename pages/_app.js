@@ -610,6 +610,20 @@ export const iconData = {
       iTag: "googlecloud",
       link: "https://cloud.google.com/",
     },
+    {
+      name: "Amazon Web Services",
+      path: "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg",
+      darkPath:
+          "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg",
+      iTag: "aws",
+      link: "https://aws.amazon.com",
+    },
+    {
+      name: "Digital Ocean",
+      path: "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg",
+      iTag: "digitalocean",
+      link: "https://www.digitalocean.com",
+    },
   ],
   cms: [
     {
@@ -671,14 +685,6 @@ export const iconData = {
       link: "https://flutter.dev/",
     },
     {
-      name: "Amazon Web Services",
-      path: "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg",
-      darkPath:
-        "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg",
-      iTag: "aws",
-      link: "https://aws.amazon.com",
-    },
-    {
       name: "Arduino",
       path: "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg",
       iTag: "arduino",
@@ -689,12 +695,6 @@ export const iconData = {
       path: "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg",
       iTag: "blender",
       link: "https://www.blender.org/",
-    },
-    {
-      name: "Digital Ocean",
-      path: "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg",
-      iTag: "digitalocean",
-      link: "https://www.digitalocean.com",
     },
     {
       name: "Docker",
