@@ -1124,6 +1124,12 @@ const initialState = {
       linkPrefix: "https://",
       linkSuffix: "",
     },
+    matrix: {
+      path: `${PROJECT_URL}/icons/socials/matrix.svg`,
+      darkPath: `${PROJECT_URL}/icons/socials/matrix-dark.svg`,
+      linkPrefix: "https://matrix.to/#/",
+      linkSuffix: "",
+    },
   },
   badges: {
     twitterFollowers: {
