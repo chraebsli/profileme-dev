@@ -636,6 +636,12 @@ export const iconData = {
       iTag: "wix",
       link: "https://wix.com",
     },
+    {
+      name: "Grav",
+      path: "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/grav-colored.svg",
+      iTag: "grav",
+      link: "https://getgrav.org",
+    },
   ],
   other: [
     {

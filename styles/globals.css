@@ -850,6 +850,12 @@ Table Of Contents:
   .wordpress.colored {
     @apply bg-[url('https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg')];
   }
+  .grav {
+    @apply bg-[url('https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/grav.svg')] dark:bg-[url('https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/grav-dark.svg')];
+  }
+  .grav.colored {
+    @apply bg-[url('https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/grav-colored.svg')];
+  }
   /** Other icons **/
   .dot-net {
     @apply bg-[url('https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net.svg')] dark:bg-[url('https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-dark.svg')];
