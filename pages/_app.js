@@ -1118,6 +1118,12 @@ const initialState = {
       linkPrefix: "https://",
       linkSuffix: "",
     },
+    mastodon: {
+      path: `${PROJECT_URL}/icons/socials/mastodon.svg`,
+      darkPath: `${PROJECT_URL}/icons/socials/mastodon-dark.svg`,
+      linkPrefix: "https://",
+      linkSuffix: "",
+    },
   },
   badges: {
     twitterFollowers: {
